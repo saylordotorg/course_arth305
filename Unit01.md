@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH305 - Arts of Asia"
+course: ARTH305
+course_fulltitle: "Arts of Asia"
+course_description: "Introductory survey on the major pre-modern artistic traditions in Asia, focusing on the art and architecture of India, China, and Japan."
+---
 **Unit 1: The Art and Architecture of India** <span id="1"></span> 
 *India has a long and rich tradition of art and architecture that dates
 back to the third millennium BCE.  This unit will cover the arts of

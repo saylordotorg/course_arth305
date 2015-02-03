@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH305 - Arts of Asia"
+course: ARTH305
+course_fulltitle: "Arts of Asia"
+course_description: "Introductory survey on the major pre-modern artistic traditions in Asia, focusing on the art and architecture of India, China, and Japan."
+---
 **Unit 4: Final Exam** <span id="4"></span> 
 -   **Final Exam: The Saylor Foundation's "ARTH305 Final Exam"**
     Link: The Saylor Foundation's "[ARTH305 Final
