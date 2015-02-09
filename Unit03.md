@@ -1,9 +1,10 @@
 ---
 layout: default
-title: "ARTH305 - Arts of Asia"
-course: ARTH305
-course_fulltitle: "Arts of Asia"
-course_description: "Introductory survey on the major pre-modern artistic traditions in Asia, focusing on the art and architecture of India, China, and Japan."
+title: "ARTH305: Arts of Asia"
+course_description: "An introductory survey on the major pre-modern artistic traditions in Asia, focusing on the art and architecture of India, China, and Japan."
+next: ../Unit04
+previous: ../Unit03
+bgimage: arth305.jpg
 ---
 **Unit 3: The Art and Architecture of Japan** <span id="3"></span> 
 *This unit serves as an introduction to the art and architecture of
