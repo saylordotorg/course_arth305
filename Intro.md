@@ -120,3 +120,4 @@ when discussing pre-modern Asian art and architecture.
 - [Unit 2](https://legacy.saylor.org/arth305/Unit02/)
 - [Unit 3](https://legacy.saylor.org/arth305/Unit03/)
 - [Unit 4](https://legacy.saylor.org/arth305/Unit04/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH305/ARTH305-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH305/ARTH305-FinalExam-Answers.html)
