@@ -324,25 +324,25 @@ Upon successful completion of this unit, students will be able to:
     Lacquer Cup,” “Jade Eye Plaques,” “Jade Cicada,” “Lacquered Box,”
     and “Bronze Belt Hook”**
     Links: The British Museum’s “[China: Han Dynasty (206 BC–AD
-    220)](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.2.2-China-Han-Dynasty1.pdf),”
+    220)](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.2.2-China-Han-Dynasty1.pdf),”
     (PDF),  “[Pilaster from a
-    Tomb](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.2.2-Pilaster-from-a-tomb1.pdf),”
+    Tomb](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.2.2-Pilaster-from-a-tomb1.pdf),”
     (PDF),   “[Ceramic *Liubo*
-    Players](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.2.2-Ceramic-Liubo-players1.pdf),”
+    Players](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.2.2-Ceramic-Liubo-players1.pdf),”
     (PDF),  “[Glazed Stoneware
-    Jar](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.2.2-Glazed-stoneware-jar1.pdf),”(PDF),
+    Jar](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.2.2-Glazed-stoneware-jar1.pdf),”(PDF),
      “[Glazed Pottery Pond with
-    Figures](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.2.2-Glazed-pottery-pond-with-figures1.pdf),”
+    Figures](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.2.2-Glazed-pottery-pond-with-figures1.pdf),”
     (PDF), “[Chinese Han Lacquer
-    Cup](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.2.2-Chinese-Han-lacquer-cup1.pdf),”
+    Cup](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.2.2-Chinese-Han-lacquer-cup1.pdf),”
     (PDF), “[Jade Eye
-    Plaques](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.2.2-Jade-eye-plaques1.pdf),”
+    Plaques](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.2.2-Jade-eye-plaques1.pdf),”
     (PDF), “[Jade
-    Cicada](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.2.2-Jade-cicada1.pdf),”
+    Cicada](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.2.2-Jade-cicada1.pdf),”
     (PDF),  “[Lacquered
-    Box](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.2.2-Lacquered-box1.pdf),”
+    Box](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.2.2-Lacquered-box1.pdf),”
     (PDF) and “[Bronze Belt
-    Hook](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.2.2-Bronze-belt-hook1.pdf)”
+    Hook](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.2.2-Bronze-belt-hook1.pdf)”
     (PDF)  
         
      Instructions: Please read these pages as an introduction to the Han
@@ -473,26 +473,26 @@ id="2.3.1"></span> 
     Thousand-Eyed Avalokiteshvara, Ink and Colours on Silk,” and “Agate
     Belt Set”**
     Links: The British Museum’s “[China: Tang Dynasty (AD
-    618–906)](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.3.2-China-Tang-Dynasty1.pdf),”
+    618–906)](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.3.2-China-Tang-Dynasty1.pdf),”
     (PDF),  “[The Silk
-    Route](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.3.2-The-Silk-Route1.pdf)”
+    Route](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.3.2-The-Silk-Route1.pdf)”
     (PDF),  “[Earthenware Tile with a Monster
-    Mask](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.3.2-Earthenware-tile-with-a-monster-mask1.pdf),”
+    Mask](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.3.2-Earthenware-tile-with-a-monster-mask1.pdf),”
     (PDF)  “[Chinese Tang Tomb
-    Figures](http://www.saylor.org/site/wp-content/uploads/2012/11/Chinese-Tang.pdf),”
+    Figures](https://resources.saylor.org/archived/wp-content/uploads/2012/11/Chinese-Tang.pdf),”
     (PDF)  “[Painted Clay and Wood Figure of a
-    Horse](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.3.2-Painted-clay-and-wood-figure-of-a-horse1.pdf),”
+    Horse](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.3.2-Painted-clay-and-wood-figure-of-a-horse1.pdf),”
     (PDF)  “[Silk Embroidery Panel with Flowers and
-    Ducks](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.3.2-Silk-embroidery-panel-with-flowers-and-ducks1.pdf),”
+    Ducks](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.3.2-Silk-embroidery-panel-with-flowers-and-ducks1.pdf),”
     (PDF), “[Silk Altar
-    Valance,](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.3.2-Silk-altar-valance1.pdf)”
+    Valance,](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.3.2-Silk-altar-valance1.pdf)”
     (PDF)  “[*Paradise of Maitreya, Ink and Colours on
-    Silk*](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.3.2-Paradise-of-Maitreya1.pdf),”
+    Silk*](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.3.2-Paradise-of-Maitreya1.pdf),”
     (PDF), “[*Thousand-Armed, Thousand-Eyed Avalokiteshvara, Ink and
     Colours on
-    Silk*](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.3.2-Thousand-armed-thousand-eyed1.pdf),”
+    Silk*](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.3.2-Thousand-armed-thousand-eyed1.pdf),”
     (PDF) and  “[Agate Belt
-    Set](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.3.2-Agate-belt-set1.pdf)”
+    Set](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.3.2-Agate-belt-set1.pdf)”
     (PDF)  
          
      Instructions: Please read these pages as an introduction to the
@@ -544,15 +544,15 @@ id="2.3.1"></span> 
     Arhat, Ingada, a Hanging Scroll Painting,” and “Qian Xuan, Young
     Nobleman on Horseback, a Handscroll Painting”**
     Links: The British Museum’s“[China: Yuan Dynasty (AD
-    1279–1368)](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.4.2-China-Yuan-Dynasty1.pdf),”
+    1279–1368)](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.4.2-China-Yuan-Dynasty1.pdf),”
     (PDF) “[Xie Chufang, Fascination of Nature, a Handscroll
-    Painting](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.4.2-Xie-Chufang1.pdf),”
+    Painting](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.4.2-Xie-Chufang1.pdf),”
     (PDF), “[Blue-and-White Porcelain Fish
-    Dish](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.4.2-Blue-and-white-porcelain-fish-dish1.pdf),”
+    Dish](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.4.2-Blue-and-white-porcelain-fish-dish1.pdf),”
     (PDF), “[*The Thirteenth Arhat, Ingada, a Hanging Scroll
-    Painting*](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.4.2-The-thirteenth-arhat-Ingada-a-hanging-scroll-painting1.pdf),”
+    Painting*](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.4.2-The-thirteenth-arhat-Ingada-a-hanging-scroll-painting1.pdf),”
     (PDF) and “[*Qian Xuan, Young Nobleman on Horseback*, a Handscroll
-    Painting](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.4.2-Qian-Xuan-young-nobleman-on-horseback1.pdf)”
+    Painting](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.4.2-Qian-Xuan-young-nobleman-on-horseback1.pdf)”
     (PDF)  
       
      Instructions: Please read these pages as an introduction to the
@@ -639,9 +639,9 @@ id="2.4.3"></span> 
     Basic Materials” and “Chinese Painting and Calligraphy: Formats”**
     Links: The British Museum’s “[Chinese Painting and Calligraphy:
     Basic
-    Materials](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.4.3-Chinese-painting-and-calligraphy1.pdf),”
+    Materials](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.4.3-Chinese-painting-and-calligraphy1.pdf),”
     (PDF) and “[Chinese Painting and Calligraphy:
-    Formats](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.4.3-Chinese-painting-and-calligraphy-formats1.pdf)”
+    Formats](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.4.3-Chinese-painting-and-calligraphy-formats1.pdf)”
     (PDF)  
       
      Instructions: Please read these pages as an introduction to the
@@ -718,27 +718,27 @@ id="2.4.3"></span> 
     Elegance'), followed by the Zhoujintang ji ('Record of the Hall of
     Daytime Elegance'**
     Links: The British Museum’s “[China: Ming Dynasty (AD
-    1368–1644)](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.5.1-China-Ming-Dynasty1.pdf),”
+    1368–1644)](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.5.1-China-Ming-Dynasty1.pdf),”
     (PDF), “*[Cloisonné
-    jar](http://www.saylor.org/site/wp-content/uploads/2012/11/Cloisonn%C3%A9.pdf),*”
+    jar](https://resources.saylor.org/archived/wp-content/uploads/2012/11/Cloisonn%C3%A9.pdf),*”
     (PDF), “[Lacquer
-    dish](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.5.1-Lacquer-dish1.pdf),”
+    dish](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.5.1-Lacquer-dish1.pdf),”
     (PDF),
-    “[*Fahua *vase](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.5.1-Fahua-vase1.pdf),”
+    “[*Fahua *vase](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.5.1-Fahua-vase1.pdf),”
     (PDF),
-    “[*Doucai *jar](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.5.1-Doucai-jar1.pdf),”
+    “[*Doucai *jar](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.5.1-Doucai-jar1.pdf),”
     (PDF), “[Stoneware figure of Budai (“Laughing
-    Buddha”)](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.5.1-Stoneware-figure-of-Budai1.pdf),”
+    Buddha”)](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.5.1-Stoneware-figure-of-Budai1.pdf),”
     (PDF), “[Gilt-bronze figure of
-    Shakyamuni](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.5.1-Gilt-bronze-figure-of-Shakyamuni1.pdf),”
+    Shakyamuni](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.5.1-Gilt-bronze-figure-of-Shakyamuni1.pdf),”
     (PDF),  “[Wen Zhengming, *Wintry Trees*, a hanging scroll
-    painting](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.5.1-Wen-Zhengming-Wintry-Trees1.pdf),”(PDF),“[Chen
+    painting](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.5.1-Wen-Zhengming-Wintry-Trees1.pdf),”(PDF),“[Chen
     Shun, Zhoujintang ('Hall of Daytime Elegance'), followed by the
     Zhoujintang ji ('Record of the Hall of Daytime Elegance'), a
     handscroll
-    painting](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.5.1-Chen-Shun-Zhoujintang1.pdf),”
+    painting](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.5.1-Chen-Shun-Zhoujintang1.pdf),”
     (PDF), and “[Archaistic jade *gui* (ritualistic
-    sceptre)](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.5.1-Archaistic-jade-gui-sceptre1.pdf)”
+    sceptre)](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.5.1-Archaistic-jade-gui-sceptre1.pdf)”
     (PDF)  
       
      Instructions: Please read these pages as an introduction to the
@@ -768,7 +768,7 @@ id="2.4.3"></span> 
 
 -   **Reading: The British Museum’s “China: Qing Dynasty (1644–1911)”**
     Link: The British Museum’s “[China: Qing Dynasty
-    (1644–1911)](http://www.saylor.org/site/wp-content/uploads/2012/02/ARTH305-2.5.2-China-Qing-Dynasty1.pdf)”  
+    (1644–1911)](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-2.5.2-China-Qing-Dynasty1.pdf)”  
       
      Instructions: Please read this page an introduction to the Qing
     dynasty.  
