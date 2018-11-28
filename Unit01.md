@@ -100,7 +100,7 @@ id="1.1"></span> 
     of the Buddha”**
     Link: The Victoria and Albert Museum’s “[Buddhism and the Life of
     the
-    Buddha](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-1.2.1-Buddhism-the-life-of-the-Buddha.pdf)”
+    Buddha](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH305-1.2.1-Buddhism-the-life-of-the-Buddha.pdf)”
     (PDF)  
       
      Instructions: Please read this page as an introduction to the life
@@ -435,9 +435,9 @@ id="1.4.1"></span> 
 -   **Reading: The Victoria and Albert Museum’s “Calligraphy in Islamic
     Art,” and “Plant Motifs in Islamic Art”**
     Links: The Victoria and Albert Museum’s “[Calligraphy in Islamic
-    Art](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-1.4.1-Islamic-Calligraphy.pdf),”
+    Art](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH305-1.4.1-Islamic-Calligraphy.pdf),”
     (PDF) and “[Plant Motifs in Islamic
-    Art](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-1.4.1-Plant-motifs-in-Islamic-art.pdf)”
+    Art](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH305-1.4.1-Plant-motifs-in-Islamic-art.pdf)”
     (PDF)  
       
      Instructions: Please read these pages as an introduction to the
@@ -459,9 +459,9 @@ id="1.4.1"></span> 
 -   **Reading: The Victoria and Albert Museum’s “The Age of the Mughals”
     and “Life and Art in the Mughal Court”**
     Links: The Victoria and Albert Museum’s “[The Age of the
-    Mughals](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-1.4.2.-The-age-of-the-Mughals.pdf)”
+    Mughals](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH305-1.4.2.-The-age-of-the-Mughals.pdf)”
     and “[Life and Art in the Mughal
-    Court](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-1.4.2-Life-and-art-in-the-Mughal-court.pdf)”  
+    Court](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH305-1.4.2-Life-and-art-in-the-Mughal-court.pdf)”  
       
      Instructions: Please read these two pages as an introduction to the
     Mughals and Mughal Art. After you are finished reading each page,
