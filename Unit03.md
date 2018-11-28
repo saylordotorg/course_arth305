@@ -75,15 +75,15 @@ id="3.1.2"></span> 
     BC–AD 300),” “Pottery vessel,” “Trumpet-necked storage jar,”“Two
     d?taku (ritual bells),” and “D?hoko (ritual spear blade)”**
     Links: The British Museum’s “[Japan: Yayoi Period (about 300 BC–AD
-    300)](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-3.1.2-Japan-Yayoi-Period1.pdf)”
+    300)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH305-3.1.2-Japan-Yayoi-Period1.pdf)”
     (PDF), “[Pottery
-    vessel](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-3.1.2-Pottery-vessel1.pdf)”
+    vessel](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH305-3.1.2-Pottery-vessel1.pdf)”
     (PDF), “[Trumpet-necked storage
-    jar](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-3.1.2-Trumpet-necked-storage-jar1.pdf)”
+    jar](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH305-3.1.2-Trumpet-necked-storage-jar1.pdf)”
     (PDF),  “[Two d?taku (ritual
-    bells)](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-3.1.2-Two-d%C5%8Dtaku-ritual-bells1.pdf)”
+    bells)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH305-3.1.2-Two-d%C5%8Dtaku-ritual-bells1.pdf)”
     (PDF), and “*[D?hoko (ritual spear
-    blade)](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-3.1.2-D%C5%8Dhoko-ritual-spear-blade1.pdf)*”
+    blade)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH305-3.1.2-D%C5%8Dhoko-ritual-spear-blade1.pdf)*”
     (PDF).  
       
      Instructions: Please read these pages as an introduction to the
@@ -100,19 +100,19 @@ id="3.1.2"></span> 
     mirror,” “Haniwa,” “Sue ware coffin,” and “Long-necked Sue jar”**
     Links: The British Museum’s “[Japan: The Kofun Period (about
     3<sup>rd</sup>–7<sup>th</sup> century
-    AD)](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-3.1.3-Japan-Kofun-Period1.pdf),”
+    AD)](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH305-3.1.3-Japan-Kofun-Period1.pdf),”
     (PDF), “[Stemmed Haji ware bowl with
-    handle](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-3.1.3-Stemmed-Haji-ware-bowl-with-handle1.pdf),”
+    handle](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH305-3.1.3-Stemmed-Haji-ware-bowl-with-handle1.pdf),”
     (PDF),
-    “[Sword](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-3.1.3-Sword1.pdf),”
+    “[Sword](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH305-3.1.3-Sword1.pdf),”
     (PDF), “[Bronze
-    mirror](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-3.1.3-Bronze-mirror1.pdf),”
+    mirror](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH305-3.1.3-Bronze-mirror1.pdf),”
     (PDF),
-    “[Haniwa](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-3.1.3-Bronze-mirror1.pdf),”
+    “[Haniwa](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH305-3.1.3-Bronze-mirror1.pdf),”
     (PDF), “[Sue ware
-    coffin](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-3.1.3-Sue-ware-coffin1.pdf),”
+    coffin](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH305-3.1.3-Sue-ware-coffin1.pdf),”
     (PDF), and “[Long-necked Sue
-    jar](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-3.1.3-Long-necked-Sue-jar1.pdf)”
+    jar](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH305-3.1.3-Long-necked-Sue-jar1.pdf)”
     (PDF).  
       
      Instructions: Please read these pages as an introduction to the
@@ -508,7 +508,7 @@ id="3.3.1"></span> 
     the Floating World”**
     Link: The Victoria and Albert Museum’s “[Ukiyo-e: Pictures of the
     Floating
-    World](https://resources.saylor.org/archived/wp-content/uploads/2012/02/ARTH305-3.4.2-Ukiyo.pdf)”
+    World](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/ARTH305-3.4.2-Ukiyo.pdf)”
     (PDF)  
       
      Instructions: Please read this page as an introduction to ukiyo-e. 
